@@ -1,0 +1,3 @@
+C:\Users\Psy\Desktop\WasteGmae\trunk\BrokenCycleGame\BrokenCycleGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\TEMploolz\trunk\BrokenCycleGame\BrokenCycleGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Psy\Desktop\WasteGame2\trunk\BrokenCycleGame\BrokenCycleGameContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrokenCycleGame", "BrokenCycleGame\BrokenCycleGame\BrokenCycleGame.csproj", "{06FA918F-3691-4517-B549-3F3BC2A9E086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrokenCycleGameContent", "BrokenCycleGame\BrokenCycleGameContent\BrokenCycleGameContent.contentproj", "{6A41A52C-D463-4E40-820F-27B4AA14BC48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics XNA", "BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\Farseer Physics XNA.csproj", "{0A850700-1ABB-4288-A391-6726B90EBEB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugView XNA", "BrokenCycleGame\BrokenCycleGame\DebugView XNA\DebugView XNA.csproj", "{FC7845FA-13FE-4FF8-822A-A577F3F59B00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FA918F-3691-4517-B549-3F3BC2A9E086}.Debug|x86.ActiveCfg = Debug|x86
+		{06FA918F-3691-4517-B549-3F3BC2A9E086}.Debug|x86.Build.0 = Debug|x86
+		{06FA918F-3691-4517-B549-3F3BC2A9E086}.Release|x86.ActiveCfg = Release|x86
+		{06FA918F-3691-4517-B549-3F3BC2A9E086}.Release|x86.Build.0 = Release|x86
+		{6A41A52C-D463-4E40-820F-27B4AA14BC48}.Debug|x86.ActiveCfg = Debug|x86
+		{6A41A52C-D463-4E40-820F-27B4AA14BC48}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.ActiveCfg = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.Build.0 = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.Build.0 = Release|x86
+		{FC7845FA-13FE-4FF8-822A-A577F3F59B00}.Debug|x86.ActiveCfg = Debug|x86
+		{FC7845FA-13FE-4FF8-822A-A577F3F59B00}.Debug|x86.Build.0 = Debug|x86
+		{FC7845FA-13FE-4FF8-822A-A577F3F59B00}.Release|x86.ActiveCfg = Release|x86
+		{FC7845FA-13FE-4FF8-822A-A577F3F59B00}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

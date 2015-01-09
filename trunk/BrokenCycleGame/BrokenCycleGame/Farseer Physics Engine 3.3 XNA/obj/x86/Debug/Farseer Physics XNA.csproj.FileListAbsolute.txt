@@ -1,0 +1,14 @@
+C:\Users\Mark\Desktop\TEMploolz\trunk\BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.XML
+C:\Users\Mark\Desktop\TEMploolz\trunk\BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Mark\Desktop\TEMploolz\trunk\BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Mark\Desktop\TEMploolz\trunk\BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\TEMploolz\trunk\BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mark\Desktop\TEMploolz\trunk\BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Mark\Desktop\TEMploolz\trunk\BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Psy\Desktop\WasteGame2\trunk\BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Psy\Desktop\WasteGame2\trunk\BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Psy\Desktop\WasteGame2\trunk\BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Psy\Desktop\WasteGame2\trunk\BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Psy\Desktop\WasteGame2\trunk\BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Psy\Desktop\WasteGame2\trunk\BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Psy\Desktop\WasteGame2\trunk\BrokenCycleGame\BrokenCycleGame\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.XML
